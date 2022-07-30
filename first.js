@@ -9,4 +9,9 @@ var flag = true;
 
 var onionPrice = 10;
 var eggPrice = 15;
+var totalPrice = onionPrice + eggPrice; 
 console.log(onionPrice + eggPrice);
+var priceProduct = onionPrice * eggPrice;
+console.log(priceProduct);
+var divPrice = eggPrice / onionPrice;
+console.log(divPrice);
